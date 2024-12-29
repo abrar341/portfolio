@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abrar_H/static/css/main.f1f9b072.css",
+    "main.js": "/abrar_H/static/js/main.073a05f1.js",
+    "static/js/787.dd2223e0.chunk.js": "/abrar_H/static/js/787.dd2223e0.chunk.js",
+    "index.html": "/abrar_H/index.html",
+    "main.f1f9b072.css.map": "/abrar_H/static/css/main.f1f9b072.css.map",
+    "main.073a05f1.js.map": "/abrar_H/static/js/main.073a05f1.js.map",
+    "787.dd2223e0.chunk.js.map": "/abrar_H/static/js/787.dd2223e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f9b072.css",
+    "static/js/main.073a05f1.js"
+  ]
+}
